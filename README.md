@@ -10,7 +10,7 @@
 <div>
 <a href="https://github.com/vilquer">
 <img height="180em" src="https://github.com/vilquer/vilquer/blob/main/octocat-1661307135867.png">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilquer&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilquer&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilquer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
@@ -27,7 +27,11 @@
 
 </div>
 
-**Histórico em:** Python, Power BI, SPSS, Microsoft Excel.
+**Histórico em:**  
+[![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) 
+![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  Python, Power BI, SPSS, Microsoft Excel.
+
+<a href="https://github.com/vilquer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="60" height="20"> </a>
 
 **Links:**
 * [LinkedIn](https://bit.ly/3dvpXSP)
