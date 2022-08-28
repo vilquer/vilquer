@@ -51,6 +51,8 @@
 * [**Análise de dados com Python e Pandas**](https://bit.ly/3l61N66)
 
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 <!-- https://github.com/VishwaGauravIn/pretty-readme-badges -->
