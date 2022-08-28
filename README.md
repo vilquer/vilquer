@@ -2,7 +2,9 @@
 
 
 
-## [Autor |](https://bit.ly/3dvpXSP) [Python |](https://www.python.org/) [GPLv3 license |](https://www.gnu.org/licenses/gpl-3.0.pt-br.html) [Contribuições](https://github.com/vilquer/Python/issues)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://bit.ly/3dvpXSP)
+[![Instagram](https://img.shields.io/badge/@vilquer.ds-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vilquer.ds/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vilquer.ds@gmail.com)
 <div>
   <img align="center" src="banner.png" >
 </div>
@@ -29,13 +31,21 @@
 
 **Histórico em:**  
 [![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) 
-![Power Bi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)  Python, Power BI, SPSS, Microsoft Excel.
-
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 <a href="https://github.com/vilquer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" width="60" height="20"> </a>
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
 
 **Links:**
-* [LinkedIn](https://bit.ly/3dvpXSP)
-* [Instagram](https://www.instagram.com/vilquer.ds/)
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://bit.ly/3dvpXSP)
+* [![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vilquer.ds/)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vilquer.ds@gmail.com)
 
 
 
