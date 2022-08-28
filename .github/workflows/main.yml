@@ -1,6 +1,1 @@
-- uses:Platane/snk@v2
-    with:github_user_name:${{github.vilquer}}
-    outputs:
-    github-snake.svg
-      github-snake-dark.svg?palette=github-dark
-      ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+uses: Platane/snk/svg-only@v2
