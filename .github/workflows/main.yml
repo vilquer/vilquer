@@ -1,4 +1,3 @@
-- name: Platane
   uses: Platane/snk@v2
   with:
     # github user name to read the contribution graph from (**required**)
