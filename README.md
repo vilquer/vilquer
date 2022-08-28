@@ -42,19 +42,13 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
 
-**Links:**
-* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://bit.ly/3dvpXSP)
-* [![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vilquer.ds/)
-* [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vilquer.ds@gmail.com)
-
-
 
 ## Projetos:
 #### Python
+* [**Bootcamp Academy Atlantico** - Projeto DataGearScore, Predição de Predição de Risco em Cartão de Crédito.](https://github.com/atlantico-academy/datagearscore)
 * [**Interface gráfica para consulta dos dados públicos da RFB**](https://bit.ly/2Y9mT8W)
-* [**HangMan -  Jogo da Forca**](https://bit.ly/3gYcN3p)
+* [**HangMan** -  Jogo da Forca](https://bit.ly/3gYcN3p)
 * [**Análise de dados com Python e Pandas**](https://bit.ly/3l61N66)
-#### PowerBI
-* [**Análise Titanic**](https://bit.ly/2zRtlJ8)
+
 
 ---
