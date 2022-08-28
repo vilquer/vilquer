@@ -21,11 +21,11 @@
   
 ### Olá, eu sou o Vilquer!👋 :smile:  
 <sub>*Beguiner Data Scientist*</sub>
-  
-##### Eu sou um cientista de dados iniciante que tem uma grande paixão pela inovação, por novas tecnologias e por solucionar problemas de negócios não estruturados.  
-##### Tenho excelentes habilidades de liderança, comunicação e trabalho em equipe.  
-##### Experiencia em atendimento ao cliente, suporte ao usuário e mineração de dados.  
-##### Meu interesse profissional é trabalhar e me destacar no campo da ciência de dados.  
+
+>Eu sou um cientista de dados iniciante que tem uma grande paixão pela inovação, por novas tecnologias e por solucionar problemas de negócios.  
+>Tenho excelentes habilidades de liderança, comunicação e trabalho em equipe.  
+>Experiencia em atendimento ao cliente, suporte ao usuário e mineração de dados. 
+>Meu interesse profissional é trabalhar e me destacar no campo da ciência de dados.
 
 </div>
 
@@ -51,4 +51,6 @@
 * [**Análise de dados com Python e Pandas**](https://bit.ly/3l61N66)
 
 
----
+
+
+<!-- https://github.com/VishwaGauravIn/pretty-readme-badges -->
