@@ -22,12 +22,13 @@
 ### Olá, eu sou o Vilquer!👋 :smile:  
 <sub>*Data Scientist*</sub>
 
->Cientista de Dados
+>Cientista de Dados  
 >Unidade de Estratégia e Inteligência de Crédito, Banrisul S/A
 
->Possuo anos de experiência como Cientista de Dados, tenho trabalhado na Unidade de Estratégia e Inteligência de Crédito do Banrisul S/A, desenvolvendo modelos de escoragem de crédito. Recentemente, tive a oportunidade de trabalhar com a consultoria KUNUMI em vários projetos de Inteligência Artificial, uma experiência que proporcionou uma valiosa troca de conhecimentos.
+>Há alguns anos, tenho trabalhado na Unidade de Estratégia e Inteligência de Crédito do Banrisul S/A, desenvolvendo modelos de escoragem de crédito. Recentemente, tive a oportunidade de trabalhar com a consultoria KUNUMI em vários projetos de Inteligência Artificial, uma experiência que proporcionou uma valiosa troca de conhecimentos.
 
->Apaixonado por inovação e tecnologia, estou sempre buscando maneiras de me destacar e crescer no campo da ciência de dados, apesar da complexidade do setor. Minhas habilidades incluem liderança, comunicação, trabalho em equipe, atendimento ao cliente, suporte ao usuário e mineração de dados.
+>Apaixonado por inovação e tecnologia, estou sempre buscando maneiras de me destacar e crescer no campo da ciência de dados, apesar da complexidade do setor.  
+>Minhas habilidades incluem liderança, pensamento crítico, planejamento, comunicação, trabalho em equipe, atendimento ao cliente, suporte ao usuário e mineração de dados.
 
 </div>
 
