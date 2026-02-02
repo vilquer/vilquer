@@ -1,25 +1,21 @@
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://bit.ly/3dvpXSP)
-[![Instagram](https://img.shields.io/badge/@vilquer.ds-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vilquer.ds/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vilquer.ds@gmail.com)
+![Commits](https://img.shields.io/github/commit-activity/y/vilquer/credit-risk-kedro?style=for-the-badge&logo=github&color=bd93f9)
+![Stars](https://img.shields.io/github/stars/vilquer?style=for-the-badge&logo=github&color=f1fa8c)
 <!-- <div>
   <img align="center" src="banner.png" >
 </div> -->
 
-<div>
 <div align="center">
-  <img height="180em" src="https://github.com/vilquer/vilquer/blob/main/octocat-1661307135867.png">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vilquer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vilquer&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="15%" src="https://github.com/vilquer/vilquer/blob/main/octocat-1661307135867.png?raw=true">
+  <img width="357" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vilquer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="300" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vilquer&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-</div>
-
 <div> 
 
 ### Olá, eu sou o Vilquer! 👋 🚀
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://bit.ly/3dvpXSP)
+[![Instagram](https://img.shields.io/badge/@vilquer.ds-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vilquer.ds/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vilquer.ds@gmail.com)  
+
 **Data Scientist | Tech Lead | Mestrando na UFRGS**
 
 Atuo na **Unidade de Estratégia e Inteligência de Crédito do Banrisul S/A**, onde lidero tecnicamente o desenvolvimento de modelos de escoragem e probabilidade de inadimplência (PD). Minha trajetória une a experiência prática do setor bancário com uma base acadêmica em **IA e Inteligência Computacional**.
