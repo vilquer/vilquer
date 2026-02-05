@@ -12,7 +12,7 @@
 <div> 
 
 ### Olá, eu sou o Vilquer! 👋 🚀
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://bit.ly/3dvpXSP)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vilquer-oliveira-ba140638/)
 [![Instagram](https://img.shields.io/badge/@vilquer.ds-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vilquer.ds/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vilquer.ds@gmail.com)  
 
